@@ -10,6 +10,9 @@ The captcha phrase is stored in a token, and crpted in a session `$_SESSION['cap
 
 The captcha sent will be compared to the generated image token to determine if they are identical.
 ```
+
+![Alt text](https://raw.githubusercontent.com/leonardomcl/CaptchaPHP/main/captcha.png "Preview")
+
 ## LIBRARIES
 ### Needs PHP GD LIBRARY
 
